@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "brand": "HydraPure",
+        "capacity": "500ml",
+        "material": "Stainless Steel",
+        "colour": "Matte Black",
+        "price": 1290,
+        "image_url": "https://picsum.photos/id/1011/800/800"
+    },
+    {
+        "id": 2,
+        "brand": "AquaFlow",
+        "capacity": "750ml",
+        "material": "Tritan Plastic",
+        "colour": "Clear Blue",
+        "price": 790,
+        "image_url": "https://picsum.photos/id/1025/800/800"
+    },
+    {
+        "id": 3,
+        "brand": "EcoSip",
+        "capacity": "600ml",
+        "material": "Glass (Borosilicate)",
+        "colour": "Transparent",
+        "price": 1490,
+        "image_url": "https://picsum.photos/id/103/800/800"
+    },
+    {
+        "id": 4,
+        "brand": "ThermoGuard",
+        "capacity": "1L",
+        "material": "Double-wall Stainless Steel",
+        "colour": "Silver",
+        "price": 2190,
+        "image_url": "https://picsum.photos/id/1043/800/800"
+    },
+    {
+        "id": 5,
+        "brand": "SportX",
+        "capacity": "750ml",
+        "material": "BPA-free Plastic",
+        "colour": "Red",
+        "price": 650,
+        "image_url": "https://picsum.photos/id/1056/800/800"
+    },
+    {
+        "id": 6,
+        "brand": "PureVessel",
+        "capacity": "350ml",
+        "material": "Stainless Steel",
+        "colour": "Rose Gold",
+        "price": 980,
+        "image_url": "https://picsum.photos/id/1062/800/800"
+    },
+    {
+        "id": 7,
+        "brand": "UrbanHydrate",
+        "capacity": "900ml",
+        "material": "Tritan Plastic",
+        "colour": "Smoke Grey",
+        "price": 1120,
+        "image_url": "https://picsum.photos/id/1074/800/800"
+    },
+    {
+        "id": 8,
+        "brand": "NatureSip",
+        "capacity": "600ml",
+        "material": "Bamboo + Glass (cover)",
+        "colour": "Natural Wood",
+        "price": 1350,
+        "image_url": "https://picsum.photos/id/1080/800/800"
+    },
+    {
+        "id": 9,
+        "brand": "GlacierOne",
+        "capacity": "1.5L",
+        "material": "Insulated Stainless Steel",
+        "colour": "Navy Blue",
+        "price": 2590,
+        "image_url": "https://picsum.photos/id/1084/800/800"
+    },
+    {
+        "id": 10,
+        "brand": "EverydayBottle",
+        "capacity": "500ml",
+        "material": "Glass with Silicone Sleeve",
+        "colour": "Mint Green",
+        "price": 890,
+        "image_url": "https://picsum.photos/id/1081/800/800"
+    }
+]
