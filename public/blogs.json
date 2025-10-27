@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://images.pexels.com/photos/261879/pexels-photo-261879.jpeg",
+    "title": "The Silent Forest",
+    "autho_img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg",
+    "author": "Elena Hart",
+    "poster_date": "2025-08-12",
+    "reading_time": "8 min read",
+    "hashtags": ["#fiction", "#mystery", "#nature"]
+  },
+  {
+    "id": 2,
+    "cover": "https://images.pexels.com/photos/386148/pexels-photo-386148.jpeg",
+    "title": "Deep Code: The Web Developer’s Journey",
+    "autho_img": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg",
+    "author": "Ravi Singh",
+    "poster_date": "2025-09-05",
+    "reading_time": "12 min read",
+    "hashtags": ["#webdevelopment", "#javascript", "#learning"]
+  },
+  {
+    "id": 3,
+    "cover": "https://images.pexels.com/photos/356079/pexels-photo-356079.jpeg",
+    "title": "Mindset Shift: From Beginner to Pro",
+    "autho_img": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg",
+    "author": "Amara Lee",
+    "poster_date": "2025-07-20",
+    "reading_time": "9 min read",
+    "hashtags": ["#personaldevelopment", "#motivation", "#growth"]
+  },
+  {
+    "id": 4,
+    "cover": "https://images.pexels.com/photos/414683/pexels-photo-414683.jpeg",
+    "title": "Urban Seasons: Life in the Big City",
+    "autho_img": "https://images.pexels.com/photos/3775078/pexels-photo-3775078.jpeg",
+    "author": "Carlos Mendez",
+    "poster_date": "2025-06-15",
+    "reading_time": "7 min read",
+    "hashtags": ["#citylife", "#photography", "#culture"]
+  },
+  {
+    "id": 5,
+    "cover": "https://images.pexels.com/photos/207983/pexels-photo-207983.jpeg",
+    "title": "Green Horizons: A Journey to Sustainability",
+    "autho_img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg",
+    "author": "Priya Nair",
+    "poster_date": "2025-10-01",
+    "reading_time": "11 min read",
+    "hashtags": ["#environment", "#sustainability", "#future"]
+  }
+]

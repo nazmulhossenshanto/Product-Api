@@ -1,15 +1,14 @@
-import Boootles from "./components/Boootles";
+import React from 'react';
+import Navbar from './components/Navbar';
+import Blogs from './components/Blogs';
 
-
-
-function App() {
-  const bottlesPromise = fetch('bootles.json').then(res => res.json());
+const App = () => {
   return (
-    <>
-      <h1>Vite + React</h1>
-      <Boootles bottlesPromise={bottlesPromise}></Boootles>
-    </>
-  )
-}
+    <div className='w-11/12 mx-auto my-5 space-y-5'>
+      <Navbar></Navbar>
+      <Blogs></Blogs>
+    </div>
+  );
+};
 
-export default App
+export default App;
