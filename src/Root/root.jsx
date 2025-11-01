@@ -3,6 +3,7 @@ import Navigationbar from '../components/Navigationbar';
 import {  Outlet } from 'react-router';
 import HookForm from '../components/HookForm';
 import ProductManagement from '../components/Product/ProductManagement';
+import InputForm from '../components/InputForm';
 
 const root = () => {
     return (
@@ -20,7 +21,7 @@ const root = () => {
                 </div>
             </main>
             <footer>
-                <ProductManagement></ProductManagement>
+               <InputForm></InputForm>
             </footer>
         </div>
     );
